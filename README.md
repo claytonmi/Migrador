@@ -1,13 +1,20 @@
-# Projeto de Migração de Banco de Dados
-O Projeto de Migração de Banco de Dados tem como finalidade facilitar a transição de dados de um sistema para outro, enfrentando desafios complexos para garantir a integridade e evitar perda de dados durante o processo. O objetivo principal deste trabalho é aprimorar um projeto de migração de banco de dados já existente no mercado, cujo software atual suporta apenas dois tipos de bancos, limitando a adoção por empresas.
+# 🎲 Projeto de Migração de Banco de Dados
+O Projeto de Migração de Banco de Dados visa simplificar a transferência de dados entre sistemas, enfrentando desafios complexos para assegurar a integridade e prevenir a perda de dados durante o processo. O propósito primordial deste empreendimento é aperfeiçoar um projeto já presente no mercado, cujo software atualmente suporta apenas dois tipos de bancos, o que restringe sua adoção por empresas.
 
-## Melhorias Propostas
-A principal melhoria consiste em proporcionar benefícios significativos às empresas que utilizam o software. A limitação anterior, que restringia a escolha dos bancos de dados, será superada, permitindo uma maior flexibilidade e adaptabilidade às necessidades específicas de cada organização.
+<p align="center">
+  <img src="https://github.com/claytonmi/Migrador/raw/main/img/TelaPrincipalDoProjeto.png" alt="Projeto Migrador de banco de dados">
+</p>
 
-## Validação da Melhoria
-Para validar a eficácia da melhoria implementada, foi conduzida uma pesquisa junto aos usuários finais. Um formulário foi aplicado, questionando se as necessidades foram atendidas e se a atualização do software teve impacto positivo no processo.
+### 🎯 Funcionalidades do sistema
+  - O sistema possibilita o usuário realizar migrações para diversos bancos de dados, incluindo Sql Server, Oracle, PostgreSQL e MySQL. 
+  - É possível o cadastro de grupos, organizados por tipo de banco, na tela inicial do sistema.
 
-## Resultados Obtidos
-Conforme os resultados da pesquisa, ficou evidente que a melhoria proporcionou avanços significativos em relação à versão anterior. O software aprimorado agora oferece uma experiência mais intuitiva, com mensagens informativas para auxiliar os usuários durante o processo de migração. Além disso, a capacidade de suportar mais dois tipos de bancos de dados amplia as possibilidades e a utilidade do software para um espectro mais amplo de empresas.
+### 📋 Pré-requisitos para o Código Fonte:
+  - IDE para Java instalada
+  - Banco de dados PostgreSQL
 
-Este repositório apresenta os detalhes do projeto de migração de banco de dados, incluindo a documentação, códigos-fonte e os resultados da pesquisa de validação. Sua contribuição e feedback são bem-vindos para continuarmos aprimorando e adaptando o projeto às necessidades em constante evolução.
+### 📖 Documentação de TCC
+Para obter informações detalhadas sobre funcionalidades do Migrador de banco de dados, consulte a nossa [documentação](https://github.com/claytonmi/Migrador/raw/main/Doc/Documentação%20Migração%20de%20Banco%20de%20Dados.docx)
+
+### ⚙️ Instalação Necessária
+O Migrador de Banco de Dados é uma aplicação leve que demanda a realização de uma instalação, além da necessidade de um banco de dados PostgreSQL já configurado.
