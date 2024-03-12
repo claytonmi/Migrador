@@ -22,3 +22,7 @@ O **Migrador de Banco de Dados** é uma aplicação leve que demanda necessidade
 - [Banco de dados Migrador](https://github.com/claytonmi/Migrador/raw/main/BancoMIGRADOR.backup).
 - [Projeto Migrador](https://github.com/claytonmi/Migrador/raw/main/dist/dist.rar).
 
+### 🚩 Informações do Projeto
+
+- **Criado em:** 📅 2022
+- **Última Atualização:** 🔄 2024
