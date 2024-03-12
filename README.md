@@ -18,4 +18,4 @@ Para obter informações detalhadas sobre funcionalidades do Migrador de banco d
 
 ### ⚙️ Instalação Necessária
 O Migrador de Banco de Dados é uma aplicação leve que demanda necessidade de um banco de dados PostgreSQL já configurado para ser executado.
-[Download](https://github.com/claytonmi/Migrador/raw/main/dist/Migrador.jar).
+[Download](https://github.com/claytonmi/Migrador/raw/main/dist/dist.rar).
