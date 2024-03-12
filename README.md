@@ -11,11 +11,14 @@ O Projeto de Migração de Banco de Dados visa simplificar a transferência de d
 
 ### 📋 Pré-requisitos para o Código Fonte:
   - IDE para Java instalada
-  - Banco de dados PostgreSQL
+  - Banco de dados [PostgreSQL](https://www.postgresql.org/download/)
+  
 
 ### 📖 Documentação de TCC
 Para obter informações detalhadas sobre funcionalidades do Migrador de banco de dados, consulte a nossa [documentação](https://github.com/claytonmi/Migrador/raw/main/Doc/Documentação%20Migração%20de%20Banco%20de%20Dados.docx).
 
 ### ⚙️ Instalação Necessária
-O Migrador de Banco de Dados é uma aplicação leve que demanda necessidade de um banco de dados PostgreSQL já configurado para ser executado.
-[Download](https://github.com/claytonmi/Migrador/raw/main/dist/Migrador.jar).
+O **Migrador de Banco de Dados** é uma aplicação leve que demanda necessidade de um banco de dados PostgreSQL já configurado para ser executado.
+- [Banco de dados Migrador](https://github.com/claytonmi/Migrador/raw/main/BancoMIGRADOR.backup).
+- [Projeto Migrador](https://github.com/claytonmi/Migrador/raw/main/dist/dist.rar).
+
