@@ -32,11 +32,13 @@ public class ConexaoMIGRADOR {
                     stm = con.createStatement();
                 } catch (ClassNotFoundException | SQLException e) {
                     mostrarErro("Erro ao estabelecer conexão com o banco de dados. Em caso de dúvidas, consulte o arquivo Instrucoes para obter informações adicionais e garantir a utilização do sistema.");
+                    System.exit(1);
                 }
                 return con;
             }
         } catch (IOException e) {
             mostrarErro("Erro ao ler o arquivo config.ini, verifique os valores no arquivo!");
+            System.exit(1);
         }
         return con;
     }
@@ -59,6 +61,7 @@ public class ConexaoMIGRADOR {
                 prop.store(output, "Configurações do Migrador de Banco de Dados");
             } catch (IOException e) {
                 mostrarErro("Erro ao criar o arquivo INI: " + e.getMessage());
+                System.exit(1);
             }
         }
     }
