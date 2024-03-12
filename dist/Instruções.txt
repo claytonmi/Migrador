@@ -1,0 +1,10 @@
+Antes de iniciar o Migrador, siga os passos abaixo:
+
+Preparação do Banco de Dados:
+- Crie um banco de dados no PostgreSQL com o nome "BancoMIGRADOR".
+- Restaure o banco de dados utilizando o arquivo "BancoMIGRADOR.backup".
+
+Execução do Migrador:
+- Inicie o Migrador executando o arquivo "Migrador.jar".
+
+Certifique-se de seguir essas etapas para garantir uma configuração adequada antes de usar o Migrador.
